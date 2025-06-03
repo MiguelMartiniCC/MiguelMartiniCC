@@ -2,8 +2,8 @@
 
 
 - 🔭 Hoje trabalho com front-end
-- 🌱 Atualmente estudando Kotlin para desenvolvimento android
-- 🎒 Ciência da Computação
+- 🌱 Atualmente estudando desenvolvimento web com PHP, Laravel e React
+- 🎒 Análise e Desenvolvimento de Sistemas e Ciência da Computação
  <hr>
   <div>
       <a href="https://https://github.com/MiguelMartiniCC">
